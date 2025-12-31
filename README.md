@@ -1,86 +1,86 @@
-# Bright Data's Turkey Proxies
+# Bright Dataのトルコプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/tr) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/tr) 
 
-## Overview
-Experience seamless scraping with Bright Data's [Turkey proxies](https://brightdata.com/locations/tr), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Turkey and don't get blocked again.
+## 概要
+精密なターゲティング、比類のない安定性、そして迅速なレスポンスタイムを提供するよう設計されたBright Dataの[トルコプロキシ](https://brightdata.jp/locations/tr)で、シームレスなスクレイピングをご体験ください。トルコからWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
 
-- **1M Turkey proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **City, state, ZIP code level targeting (Free)**
+- **トルコのプロキシIP 100万件**
+- **スティッキーおよびローテーティングセッション**
+- **成功率99.95%**
+- **HTTP(S) & SOCKS5対応**
+- **都市、州、郵便番号レベルのターゲティング（無料）**
 
-## Key Features
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な特長
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を達成できます。
+- **高速レスポンス**: 平均レスポンスタイムは約0.7秒です。
+- **倫理的な取得**: すべてのプロキシは、ユーザーの明確な同意のもとで取得されています。
+- **無制限の同時セッション**: 制限なく運用をスケールできます。
 
-## Types of Turkey Proxies
+## トルコプロキシの種類
 
-**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+**[**レジデンシャルプロキシ**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のレジデンシャルプロキシで、手間なくスクレイピングを行えます。正確なターゲティングと比類ない信頼性をご活用ください。
   
-- **HTTP(S)/ & SOCKS5 supported**
-- **Global customer support**
+- **HTTP(S)/ & SOCKS5対応**
+- **グローバルカスタマーサポート**
 
-**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+**[**データセンタープロキシ**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼性の高いデータセンターIPプールを使用して、匿名のデータ収集を容易にスケールできます。
 
-- **0.24s resonse time**
-- **Pay-Per-IP or bandwidth usage**
+- **0.24秒のresonse time**
+- **IP単位の従量課金、または帯域幅使用量**
 
-**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+**[**ISPプロキシ**](https://brightdata.jp/proxy-types/isp-proxies)** - 生涯保持できる、最高品質のスタティックレジデンシャルプロキシです。
   
-- **Pay-per-IP or by bandwidth usage**
-- **Fastest response time in the industry**
+- **IP単位の従量課金、または帯域幅使用量**
+- **業界最速のレスポンスタイム**
 
-**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+**[**モバイルプロキシ**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のモバイルIPを使用して、実際のモバイルユーザーと同じようにWebを閲覧できます。
   
-- **3G/4G/5G mobile IPs**
-- **24/7 global support**
+- **3G/4G/5GモバイルIP**
+- **24/7グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/tr) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/tr) 
 
-## Getting Started with Bright Data's Turkey proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Bright Dataのトルコプロキシの始め方
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPと設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例を提供しています。
 
-## Integrations
-Our Turkey proxies integrate with popular tools and frameworks, including:
+## 連携
+当社のトルコプロキシは、以下を含む一般的なツールやフレームワークと連携できます。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**すべてのプロキシ連携**](https://brightdata.jp/integration)
 
-## Popular Use Cases
-Explore how businesses leverage Turkey proxies:
+## 人気のユースケース
+企業がトルコプロキシをどのように活用しているかをご紹介します。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
+- [**ソーシャルメディア**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドを監視します。
+- [**不動産**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**旅行**](https://brightdata.jp/use-cases/travel): 地域間で価格を比較します。
+- [**金融サービス**](https://brightdata.jp/use-cases/financial): 安全にトレンドを分析します。
 
 ## FAQ
 
-### What is an Turkey proxy server?
-An Turkey proxy server is a server based in Turkey that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
+### トルコプロキシサーバーとは何ですか？
+トルコプロキシサーバーとは、トルコに拠点を置き、デバイスとインターネットの間で仲介役として機能するサーバーです。匿名性を提供し、制限やブロックの回避を支援し、Webコンテンツのスクレイピングを可能にし、コンテンツフィルタリングポリシーを適用します。
 
-### Can I target ZIP codes across Turkey?
-Yes, you can choose IPs using Turkey zip code level targeting. Bright Data also offers city and state level proxy targeting.
+### トルコ全土で郵便番号をターゲットにできますか？
+はい、トルコの郵便番号レベルのターゲティングを使用してIPを選択できます。Bright Dataは、都市および州レベルのプロキシターゲティングも提供しています。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### 利用可能なプランの種類は何ですか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **従量課金（Pay-As-You-Go）**: GBあたりの固定料金です。
+- **サブスクリプションプラン**: 月額、年額、およびカスタムオプションです。
 
-### Are Bright Data's Turkey Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright Dataのトルコプロキシは準拠しており、安全に使用できますか？
+Bright Dataのプロキシは倫理的に取得されており、GDPRおよびCCPAを含む、関連するすべてのデータ保護法を遵守しています。
 
-### Is there dedicated support available?
-Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
+### 専任サポートは利用できますか？
+専任サポートチームが24時間365日でお客様を支援します。ニーズについてご相談いただき、Dedicated proxy networkの利点を最大化するためにお問い合わせください。
