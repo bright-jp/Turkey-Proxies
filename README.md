@@ -1,6 +1,6 @@
 # Bright Dataのトルコプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/tr) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/tr) 
 
 ## 概要
 精密なターゲティング、比類のない安定性、そして迅速なレスポンスタイムを提供するよう設計されたBright Dataの[トルコプロキシ](https://brightdata.jp/locations/tr)で、シームレスなスクレイピングをご体験ください。トルコからWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
@@ -39,7 +39,7 @@
 - **3G/4G/5GモバイルIP**
 - **24/7グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/tr) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/tr) 
 
 ## Bright Dataのトルコプロキシの始め方
 1. **無料トライアルを開始**: クレジットカードは不要です。
